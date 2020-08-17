@@ -1,6 +1,6 @@
 # [SketchUp Extension Warehouse](https://extensions.sketchup.com/) public issue tracker
 
-This repository is a place where you can use it's issue tracker to file bug reports and feature requests for the SketchUp Extension Warehouse.
+This repository is a place where you can use it's [issue tracker](https://github.com/SketchUp/extension-warehouse-issue-tracker/issues) to file bug reports and feature requests for the SketchUp Extension Warehouse.
 
 Vote up :+1: existing issues to show your interest in support.
 
